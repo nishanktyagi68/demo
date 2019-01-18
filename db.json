@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><response><data><flight_event acCustomer="90U" acDomain="R" acModel="330-941" acOperator="TAP" acParking="TBD" acProgram="L" acProgramLabel="A330-340" acRegistration="F-WWKE" acSMode="4952A4" acSN="330-900" acType="G" acTypeLabel="A330" beginDate="2018-12-03T08:00:00Z" departureAirport="LFBO" duration="03:00" endDate="2018-12-03T11:00:00Z" flightFlagCAG="N" flightFlagCER="N" flightName="OTHER_S NEO" flightNumber="1" flightStatus="Postponed" flightType="F" id="efSZGWrqUUWRn7Am7kqNow==" lastUpdateActionType="FLCHANGE" lastUpdateAuthor="to40337" lastUpdateDate="2018-12-03T07:49:29Z" msn="1892" period="AM" siteKey="TLS"><members><member firstName="Olivier" flightRole="GTE" lastName="ABRIC" portalUID="ABRIC" shortName="OAB"/><member firstName="BRUNO" flightRole="GTE" lastName="GUAUS" portalUID="guaus" shortName="GBU"/></members><taskTypes/></flight_event></data><size>273</size><status>200</status><success>0</success></response>
