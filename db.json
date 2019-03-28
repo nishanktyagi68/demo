@@ -1,11 +1,5 @@
 {
   "item": "TLB",
   "reference": "787879",
-  "ata": "74",
-  "date": "12/03/2019",
-  "alert": ">ENG 2 IGN",
-  "mcc": "Free Text",
-  "type": "2 TLB",
-  "occ": "4",
-  "status": "In Progress"
+  "ata": "74"
 }
